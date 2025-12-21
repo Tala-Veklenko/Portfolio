@@ -3,6 +3,9 @@
 Hi. I'm Tala. I've been studying and practicing to become a QA. I'm happy to have finally found an area in which I can successfully develop myself. In the QA position I see the potential to make the digital world more welcoming for every person. In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained through courses, self-study and my job. I am determined to continue to grow in this field. I have also started learning test automation in, so at the moment my main focus is on furthering my knowledge (and practice!) in this area.
 
 ## CV :memo:
+## Experiences
+Januar 2025 - August 2025 Agape Ukraine — Website for a Rehabilitation Center. 
+
 ## Skills :briefcase:
 You can find examples of the described skills in the Examples of my work section.
 
