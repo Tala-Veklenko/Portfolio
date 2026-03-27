@@ -1,6 +1,10 @@
 # Portfolio
 ## About Me  :wave:
-Hi. I'm Tala. I've been studying and practicing to become a QA. I'm happy to have finally found an area in which I can successfully develop myself. In the QA position I see the potential to make the digital world more welcoming for every person. In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained through courses, self-study and my job. I am determined to continue to grow in this field. I have also started learning test automation in, so at the moment my main focus is on furthering my knowledge (and practice!) in this area.
+Hi. I’m Tala and I'm a Junior QA Engineer with a growing focus on test automation, while maintaining a strong foundation in manual testing.
+
+I have hands-on experience working on pet projects, covering the full Software Testing Life Cycle (STLC) — from requirements analysis to test execution and reporting. I have developed my skills through courses, self-study, and consistent practice.
+
+I enjoy analyzing applications, identifying defects, and improving product quality to deliver a better user experience.
 
 ## Experiences
 Januar 2025 - August 2025 Agape Ukraine — Website for a Rehabilitation Center. 
