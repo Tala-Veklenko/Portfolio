@@ -1,12 +1,6 @@
 # Portfolio
-## About Me  :wave:
-Hi. I’m Tala and I'm a Junior QA Engineer with a growing focus on test automation, while maintaining a strong foundation in manual testing.
 
-I have hands-on experience working on pet projects, covering the full Software Testing Life Cycle (STLC) — from requirements analysis to test execution and reporting. I have developed my skills through courses, self-study, and consistent practice.
-
-I enjoy analyzing applications, identifying defects, and improving product quality to deliver a better user experience.
-
-## Experiences
+## Experiences (розписати чітко чим займалась на проєкті, з ким з команди співпрацювала, які тулзи використовувала, додати приклади тест-кейсів та чек-листів, багів)
 Januar 2025 - August 2025 Agape Ukraine — Website for a Rehabilitation Center. 
 
 ## Skills :briefcase:
@@ -58,7 +52,7 @@ can write simple functions and algorithms
 know when to use for and while
 able to comprehend easy codes
 
-## Tools :hammer_and_wrench:
+## Tools :hammer_and_wrench: (додати колекцію джейсонів для тестів, надати посилання на колекцію в постмане, додати команди по СКЛ, зробити майндмап, блок-схему для логіну, реєстрації, пеймент з бронюванням на 60хв. при невдалій сплаті)
 + [Trello](https://trello.com/invite/66c31c493e8147de5261f0b4/ATTIf939fc9ab9f2cc125cacbffbeb2d3af93706A2FD)
 + [JIRA]
 + [TestRail]
@@ -66,17 +60,12 @@ able to comprehend easy codes
 + [DevTools]
 + [SQL]
 
-+ 
-## Courses :school:
-+ [POSTMA: The complete guide - The REST API testing](https://www.udemy.com/home/my-courses/learning/)
   
-   online courses by Valentin Despa, **UDEMY**
-
-+ [JAVA API path](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/)
 ## Information sources :books:
 ### Books 
 
-### Podcasts
+### Podcasts/YouTube
 [DOU-найбільша 🇺🇦 ІТ-спільнота.](https://www.youtube.com/@DOU_youtube)
+додати попелюху, автора курсу по плейврайт, ка спільноту з інтервью, пошукати подкаст для тестувальників
 ### Blogs
 
