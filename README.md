@@ -1,18 +1,34 @@
 # Portfolio
 
 ## Experiences 
-Software Tester — CRM System (NDA)  
-July 2024 – January 2026 
+### 🔹 CRM System (NDA)
 
-- Performed functional testing of a web-based CRM system with multi-role access (user/admin/operator)
-- Conducted API testing using Postman based on Swagger (OpenAPI documentation)
-- Tested payment system integrations using positive, negative, and edge-case scenarios
-- Verified authentication flows and role-based access control
-- Designed and maintained test cases and checklists to improve test coverage of core workflows
-- Participated in the full Software Testing Life Cycle (STLC), including requirements analysis, test design, execution, and reporting
-- Validated UI against Figma designs to ensure consistency and correct implementation
-- Reported, tracked, and retested defects using ClickUp
-- Performed regression testing and collaborated closely with developers to validate fixes
+**Role:** Software Tester  
+**Period:** July 2024 – January 2026  
+
+**Project overview:**  
+Tested a web-based CRM system with multi-role access (User / Admin / Operator) and payment workflows.
+
+**Responsibilities:**
+- Performed functional testing of core system features  
+- Conducted API testing using Postman based on Swagger  
+- Tested payment integrations (positive, negative, edge cases)  
+- Verified authentication and role-based access control  
+- Designed test cases and checklists to improve test coverage  
+- Participated in full STLC (analysis → execution → reporting)  
+- Validated UI against Figma designs  
+- Reported and tracked bugs using ClickUp  
+- Performed regression testing  
+
+**Artifacts:**
+- 🧪 [Test Cases](link)
+- ✅ [Checklists](link)
+- 🐞 [Bug Reports](link)
+- 🔌 [Postman Collection (JSON)](link)
+- 🧠 [Mind Map](link)
+- 🔄 [Flow Diagram (Login / Booking / Payment)](link)
+
+
 
 Software Tester (Volunteer)— Agape Ukraine Website for a Rehabilitation Center. 
 Januar 2025 - August 2025 
@@ -24,38 +40,58 @@ Januar 2025 - August 2025
 
 
 
+## 🎓 Courses & Practice
+
+**🔹 Playwright (Udemy)**
+- Certificate(link)
+  
+[View project](link)
 
 
-#### Test documentation
+**🔹 SQL (Udemy)**
+- Certificate(link)
 
-I have the necessary knowledge and experience to create critical test documantation as a test-paln, test-cases, checklists and ets. and know how and in which situations to use them effectively.
-Able to prepare comprehensive bug reports and provide detailed session reports. 
-[TEST PLAN](https://drive.google.com/drive/folders/1TznoWlBjHFHSSMRe00UVkCHkbEf7nq1N?usp=drive_link)
-
-[TEST-CASE]()
-
-[Check-list](https://docs.google.com/spreadsheets/d/1gF9F2PcJiW3OJ6N3KRCrW0MUARm5XUve7kqG9EYjsfU/edit?usp=sharing)
-
-[USER-STORY]()
-
-[BUG-REPORTS]()
+[View SQL tasks](link)
 
 
+**🔹 JavaScript (Udemy)**
+- Certificate(link)
 
-## Tools :hammer_and_wrench: (додати колекцію джейсонів для тестів, надати посилання на колекцію в постмане, додати команди по СКЛ, зробити майндмап, блок-схему для логіну, реєстрації, пеймент з бронюванням на 60хв. при невдалій сплаті)
-+ [Trello](https://trello.com/invite/66c31c493e8147de5261f0b4/ATTIf939fc9ab9f2cc125cacbffbeb2d3af93706A2FD)
-+ [JIRA]
-+ [TestRail]
-+ [Postman](https://web.postman.co/workspace/My-Workspace~a57cd833-d224-4a59-85c4-b62c2738a053/overview)
-+ [DevTools]
-+ [SQL]
+[View JS practice](link)
+
+
+---
+
+## 📁 Repository Structure
+
+```bash
+qa-portfolio/
+├── projects/
+│   ├── booking_crm/        # CRM system testing
+│   │   ├── README.md       # Project overview
+│   │   ├── test-cases/
+│   │   ├── checklists/
+│   │   ├── bug-reports/
+│   │   ├── api/
+│   │   │   └── postman_collection.json
+│   │   ├── sql/
+│   │   │   └── queries.sql
+│   │   └── test-design/
+│   │       ├── mind-map.png
+│   │       └── flow-diagram.png
+│   │
+│   └── agape_website/      # Volunteer project
+│       ├── README.md
+│       ├── test-cases/
+│       ├── checklists/
+│       └── bug-reports/
+│
+├── practice/
+│   ├── playwright/         # UI automation practice
+│   ├── sql/                # DB queries practice
+│   └── javascript/         # JS fundamentals projects
+│
+└── README.md
 
   
-## Information sources :books:
-### Books 
-
-### Podcasts/YouTube
-[DOU-найбільша 🇺🇦 ІТ-спільнота.](https://www.youtube.com/@DOU_youtube)
-додати попелюху, автора курсу по плейврайт, ка спільноту з інтервью, пошукати подкаст для тестувальників
-### Blogs
 
