@@ -1,30 +1,30 @@
 # Portfolio
 
-## Experiences (розписати чітко чим займалась на проєкті, з ким з команди співпрацювала, які тулзи використовувала, додати приклади тест-кейсів та чек-листів, багів)
-Januar 2025 - August 2025 Agape Ukraine — Website for a Rehabilitation Center. 
+## Experiences 
+Software Tester — CRM System (NDA)  
+July 2024 – January 2026 
 
-## Skills :briefcase:
-You can find examples of the described skills in the Examples of my work section.
+- Performed functional testing of a web-based CRM system with multi-role access (user/admin/operator)
+- Conducted API testing using Postman based on Swagger (OpenAPI documentation)
+- Tested payment system integrations using positive, negative, and edge-case scenarios
+- Verified authentication flows and role-based access control
+- Designed and maintained test cases and checklists to improve test coverage of core workflows
+- Participated in the full Software Testing Life Cycle (STLC), including requirements analysis, test design, execution, and reporting
+- Validated UI against Figma designs to ensure consistency and correct implementation
+- Reported, tracked, and retested defects using ClickUp
+- Performed regression testing and collaborated closely with developers to validate fixes
 
-#### Manual testing
+Software Tester (Volunteer)— Agape Ukraine Website for a Rehabilitation Center. 
+Januar 2025 - August 2025 
 
-can perform manual functional and usability testing of web applications
-gained hands-on experience by testing applications created for educational purposes
+- Performed functional, UI/UX, and cross-browser testing of a web application
+- Used Chrome DevTools for debugging and issue analysis
+- Created and maintained test documentation (test cases, checklists, bug reports)
+- Identified UI inconsistencies and improved cross-browser compatibility
 
-#### Test analysis & design
 
-familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
 
-#### API testing
 
-know the difference between SOAP and REST APIs
-gained experience through manual testing of APIs created for educational purposes
-know how to manipulate requests and create test cases using the SoapUI tool
-
-#### Exploratory testing
-
-capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
 
 #### Test documentation
 
@@ -40,17 +40,7 @@ Able to prepare comprehensive bug reports and provide detailed session reports.
 
 [BUG-REPORTS]()
 
-#### SQL databases
 
-can write complex requests using subqueries
-familiar with the use of aliases and wildcards
-know the difference between joins and unions and can use them in queries
-
-#### JacaScript fundamentals
-
-can write simple functions and algorithms
-know when to use for and while
-able to comprehend easy codes
 
 ## Tools :hammer_and_wrench: (додати колекцію джейсонів для тестів, надати посилання на колекцію в постмане, додати команди по СКЛ, зробити майндмап, блок-схему для логіну, реєстрації, пеймент з бронюванням на 60хв. при невдалій сплаті)
 + [Trello](https://trello.com/invite/66c31c493e8147de5261f0b4/ATTIf939fc9ab9f2cc125cacbffbeb2d3af93706A2FD)
