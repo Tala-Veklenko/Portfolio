@@ -22,7 +22,7 @@ Tested a web-based CRM system with multi-role access (User / Admin / Operator) a
 - Performed regression testing  
 
 **Artifacts:**
-- 🧪 [Test Cases](link)
+- 🧪 [Test Cases](https://github.com/Tala-Veklenko/Portfolio/blob/main/Projects/Booking_CRM/Test-cases.md)
 - ✅ [Checklists](link)
 - 🐞 [Bug Reports](link)
 - 🔌 [Postman Collection (JSON)](link)
